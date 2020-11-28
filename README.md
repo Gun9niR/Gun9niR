@@ -1,5 +1,7 @@
 ### Greetings 👋
 
+![](https://komarev.com/ghpvc/?username=Gun9niR&label=Total+Views)
+
 I'm **David Guo**
 
 - :blue_book: A slow but stubborn learner
