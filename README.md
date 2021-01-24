@@ -5,7 +5,7 @@
 I'm **David Guo**
 
 - :blue_book: A slow but stubborn learner
-- Learn about me: https://gun9nir.github.io/profile/
+- Learn about me: https://gun9nir.me
 
 ### Github Stats
 
