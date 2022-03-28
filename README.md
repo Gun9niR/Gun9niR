@@ -1,11 +1,10 @@
-### Greetings 👋
+### 👋
 
 ![](https://komarev.com/ghpvc/?username=Gun9niR&label=Total+Views)
 
-I'm **David Guo**
+**David Guo** here, aka. Gun9niR.
 
-- :blue_book: A slow but stubborn learner
-- Learn about me: https://gun9nir.me
+- Learn about me: https://gun9nir.dev
 
 ### Github Stats
 
