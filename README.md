@@ -8,11 +8,7 @@
 
 ### Github Stats
 
-<div>
-  <a>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gun9niR&count_private=true&show_icons=true&theme=vue-dark&hide_title=true">
-  </a>
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gun9niR&count_private=true&show_icons=true&theme=vue-dark&hide_title=true">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
