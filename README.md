@@ -11,4 +11,10 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gun9niR&count_private=true&show_icons=true&theme=vue-dark&hide_title=true">
 
 <!--START_SECTION:waka-->
+
+```text
+Rust       1 hr 56 mins    ██████████████████▒░░░░░░   73.95 %
+Other      28 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
+```
+
 <!--END_SECTION:waka-->
