@@ -4,8 +4,6 @@
 
 **David Guo** here, aka. Gun9niR.
 
-- Learn about me: https://gun9nir.dev
-
 ### Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Gun9niR&count_private=true&show_icons=true&theme=vue-dark&hide_title=true">
