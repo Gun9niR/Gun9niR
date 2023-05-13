@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Gun9niR&label=Total+Views)
 
-**David Guo** here, aka. Gun9niR.
+**Zhidong (David) Guo** here, aka. Gun9niR.
 
 ### Github Stats
 
