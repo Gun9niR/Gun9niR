@@ -13,7 +13,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C      3 hrs 37 mins   ███████████████████████▒░   93.88 %
+Text   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->
