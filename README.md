@@ -13,10 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C          18 mins         ████████████████████████▒   97.83 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
