@@ -13,10 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++          41 mins         ████████████████████▓░░░░   82.08 %
-SSH Config   7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Python       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
