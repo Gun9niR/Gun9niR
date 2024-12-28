@@ -13,7 +13,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   26 mins         █████████████████████████   100.00 %
+Rust       34 mins         █████████████████████▒░░░   85.12 %
+Markdown   6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
 ```
 
 <!--END_SECTION:waka-->
