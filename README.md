@@ -13,10 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++               16 mins         ██████████████████████▓░░   90.00 %
-Protocol Buffer   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
